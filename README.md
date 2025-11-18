@@ -1,5 +1,9 @@
+<!--- banner --->
+<img src="./Gray and White Modern Programmer LinkedIn Banner.png" alt="Hello world">
+
 <h1 align="center">Hey 👋, I'm Sajid</h1>
-<h3 align="center">MERN Stack Developer | React • Node.js • MongoDB Passionate about building fast, scalable web applications Always learning, always improving</h3>
+<h3 align="center">Passionate about MERN Stack Developer. Always learning, always improving.</h3>
+
 
 - 🌱 I’m currently learning **Docker, Microservices, Next.js, GSAP**
 
@@ -33,7 +37,6 @@
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
 </p>
 
 
