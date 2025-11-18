@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./Gray and White Modern Programmer LinkedIn Banner.png" alt="Hello world">
+<img src="./banner.png" alt="Banner">
 
 <h1 align="center">Hey 👋, I'm Sajid</h1>
 <h3 align="center">Passionate about MERN Stack Developer.</h3>
