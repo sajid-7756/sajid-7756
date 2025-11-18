@@ -9,8 +9,6 @@
 <a href="https://dev.to/sajid7756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sajid7756" height="30" width="40" /></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajid-7756&show_icons=true&locale=en" alt="sajid-7756" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid-7756&" alt="sajid-7756" /></p>
