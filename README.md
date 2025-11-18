@@ -44,7 +44,8 @@
 
 <p>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid-7756&theme=tokyonight" />
-  &nbsp;&nbsp;&nbsp;
+
+  <br/>
   
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sajid-7756&show_icons=true&theme=tokyonight" />
 </p>
