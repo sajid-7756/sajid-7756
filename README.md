@@ -44,7 +44,7 @@
   <div>
     <img height="170" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid-7756&theme=tokyonight" alt="GitHub Streak Stats" />
     &nbsp;&nbsp;&nbsp;
-    <img height="160" width="400" src="https://github-readme-stats.vercel.app/api?username=sajid-7756&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img height="158" width="400" src="https://github-readme-stats.vercel.app/api?username=sajid-7756&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </div>
 
   <br/>
