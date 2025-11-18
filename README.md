@@ -2,7 +2,13 @@
 <img src="./Gray and White Modern Programmer LinkedIn Banner.png" alt="Hello world">
 
 <h1 align="center">Hey 👋, I'm Sajid</h1>
-<h3 align="center">Passionate about MERN Stack Developer. Always learning, always improving.</h3>
+<h3 align="center">Passionate about MERN Stack Developer.</h3>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Always,+learning!;Always+improving!&center=true&size=30">
+  </a>
+</h1>
 
 
 - 🌱 I’m currently learning **Docker, Microservices, Next.js, GSAP**
