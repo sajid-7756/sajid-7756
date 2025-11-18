@@ -64,7 +64,7 @@
 <br/>
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sajid-7756&theme=tokyo-night&bg_color=1a1b27&hide_border=true&color=70a5fd&line=70a5fd&point=70a5fd" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sajid-7756&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd" 
   width="100%"
 />
 
