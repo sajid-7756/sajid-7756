@@ -40,12 +40,27 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajid-7756&theme=tokyonight" alt="GitHub Streak Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=sajid-7756&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+
+
+<p>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid-7756&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sajid-7756&show_icons=true&theme=tokyonight" />
+</p>
+
+<br/>
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajid-7756&layout=compact&theme=tokyonight" />
+</p>
+
+
 </div>
 
-<br/>  <!-- GAP BETWEEN STATS AND GRAPH -->
+
+
+
+<br/> 
 <br/>
 
 <img 
@@ -54,7 +69,11 @@
 />
 
 
+<div align="center">
+  
+![snake gif](https://github.com/sajid-7756/sajid-7756/blob/output/github-snake-dark.svg)
 
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -65,5 +84,5 @@
 <a href="https://instagram.com/sajid_0330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajid_0330" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid-7756&label=Profile%20views&color=0e75b6&style=flat" alt="sajid-7756" /> </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sajid-7756&label=Profile%20views&color=0e75b6&style=flat" alt="sajid-7756" /> </p>
