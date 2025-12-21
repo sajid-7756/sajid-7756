@@ -12,7 +12,7 @@
 
 
 - 🌱 I’m currently working with **React, Node.js, Express, MongoDB**
-- 🔭 I’m interested in **Next.js, Docker, Microservices, GSAP**
+- 🔭 I’m learning now **Next.js, TypeScript**
 
 
 ## 🎨 Frontend
