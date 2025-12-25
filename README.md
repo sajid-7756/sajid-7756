@@ -1,7 +1,7 @@
 <!--- banner --->
 <img src="./banner.png" alt="Banner">
 
-<h1 align="center">Hey 👋, I'm Sajid</h1>
+<h1 align="center">Hey 👋, It's Sajid</h1>
 <h3 align="center">Passionate about MERN Stack Developer.</h3>
 
 <h1 align="center">
