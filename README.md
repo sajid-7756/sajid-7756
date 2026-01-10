@@ -18,7 +18,7 @@
 ## 🎨 Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,react,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,react,nextjs" />
   </a>
 </p>
 
