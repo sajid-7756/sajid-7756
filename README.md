@@ -15,7 +15,7 @@
 - 🔭 I’m learning now **Next.js, TypeScript**
 
 
-## ⚡ Languages
+## ⭐ Languages
 <p align="left"> 
   <a href="https://skillicons.dev"> 
     <img src="https://skillicons.dev/icons?i=js,ts,python" /> 
@@ -23,21 +23,12 @@
 </p>
 
 ---
-## 🎨 Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,react,nextjs" />
-  </a>
-</p>
+## ⚡ Technologies & Frameworks
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwindcss" /> </a> </p>
 
 ---
-
-## 🛠 Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-  </a>
-</p>
+## 🗄️ Databases
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mongodb" /> </a> </p>
 
 ---
 
