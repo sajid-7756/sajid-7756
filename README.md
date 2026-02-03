@@ -15,6 +15,14 @@
 - 🔭 I’m learning now **Next.js, TypeScript**
 
 
+## ⚡ Languages
+<p align="left"> 
+  <a href="https://skillicons.dev"> 
+    <img src="https://skillicons.dev/icons?i=js,ts,python" /> 
+  </a> 
+</p>
+
+---
 ## 🎨 Frontend
 <p align="left">
   <a href="https://skillicons.dev">
