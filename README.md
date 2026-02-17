@@ -12,7 +12,7 @@
 
 
 - 🌱 I’m currently working with **React, Node.js, Express, MongoDB**
-- 🔭 I’m learning now **Next.js, TypeScript**
+- 🔭 I’m learning now **Next.js, PostgreSQL**
 
 
 ## ⭐ Languages
