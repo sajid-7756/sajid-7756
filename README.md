@@ -28,7 +28,7 @@
 
 ---
 ## 🗄️ Databases
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mongodb" /> </a> </p>
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=mongodb,postgres" /> </a> </p>
 
 ---
 
