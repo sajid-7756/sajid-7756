@@ -2,7 +2,7 @@
 <img src="./banner.png" alt="Banner">
 
 <h1 align="center">Hey 👋, It's Sajid</h1>
-<h3 align="center">Passionate about MERN Stack Developer.</h3>
+<h3 align="center">Passionate about MERN Stack Development.</h3>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
