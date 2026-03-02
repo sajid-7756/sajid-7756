@@ -11,8 +11,8 @@
 </h1>
 
 
-- 🌱 I’m currently working with **React, Node.js, Express, MongoDB**
-- 🔭 I’m learning now **Next.js, PostgreSQL**
+- 🌱 I’m currently working with **Next.js, React, Node.js, Express, MongoDB**
+- 🔭 I’m learning now **Golang, Docker**
 
 
 ## ⭐ Languages
