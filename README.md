@@ -1,4 +1,4 @@
-<!--- banner --->
+b<!--- banner --->
 <img src="./banner.png" alt="Banner">
 
 <h1 align="center">Hey 👋, It's Sajid</h1>
@@ -12,13 +12,13 @@
 
 
 - 🌱 I’m currently working with **Next.js, React, Node.js, Express, MongoDB**
-- 🔭 I’m learning now **Golang, Docker**
+- 🔭 I’m learning now **C++**
 
 
 ## ⭐ Languages
 <p align="left"> 
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=js,ts,python" /> 
+    <img src="https://skillicons.dev/icons?i=js,ts,python,golang,cpp" /> 
   </a> 
 </p>
 
