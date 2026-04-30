@@ -18,7 +18,7 @@ b<!--- banner --->
 ## ⭐ Languages
 <p align="left"> 
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=js,ts,python,golang,cpp" /> 
+    <img src="https://skillicons.dev/icons?i=js,ts,python,golang,c" /> 
   </a> 
 </p>
 
