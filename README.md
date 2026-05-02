@@ -1,4 +1,4 @@
-b<!--- banner --->
+
 <img src="./banner.png" alt="Banner">
 
 <h1 align="center">Hey 👋, It's Sajid</h1>
