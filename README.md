@@ -18,7 +18,7 @@
 ## ⭐ Languages
 <p align="left"> 
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=js,ts,python,golang,c,c++" /> 
+    <img src="https://skillicons.dev/icons?i=js,ts,python,golang,c,cpp" /> 
   </a> 
 </p>
 
